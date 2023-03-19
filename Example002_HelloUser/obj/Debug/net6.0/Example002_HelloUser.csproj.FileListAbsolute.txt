@@ -1,0 +1,15 @@
+C:\ARIADNA\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+C:\ARIADNA\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+C:\ARIADNA\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+C:\ARIADNA\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+C:\ARIADNA\Examples\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\ARIADNA\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+C:\ARIADNA\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
